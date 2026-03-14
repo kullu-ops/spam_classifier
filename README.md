@@ -38,8 +38,8 @@ Prediction: Spam / Ham
 | -------------------------------- | --------------- |
 | Naive Bayes                      | ~95%            |
 | Logistic Regression              | ~96%            |
-| **Support Vector Machine (SVM)** | **~96% (Best)** |
-| Random Forest                    | ~94%            |
+| **Random Forest Classifier**     | **~96% (Best)** |
+|  Support Vector Machine (SVM)    | ~94%            |
 
 The **SVM model** was selected as the final model due to its superior performance.
 
