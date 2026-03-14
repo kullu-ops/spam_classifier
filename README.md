@@ -111,7 +111,7 @@ The app will open in your browser.
 You can access the deployed application here:
 
 ```
-https://your-app-link.streamlit.app](https://spamclassifier-dworzksaiga23bufgid27d.streamlit.app/)
+(https://spamclassifier-dworzksaiga23bufgid27d.streamlit.app/)
 ```
 
 ---
